@@ -1,4 +1,7 @@
-D 'DEA': Data envelopment analysis
+D 'xtreghet': MLE Random-Effects with Multiplicative Heteroscedasticity Panel Data Regression Use xtreghet With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F xtreghet.ado
+F xtreghet.dlg
+F xtreghet.sthlp
+F xtreghet_lfh.ado
+F xtreghet_lfn.ado
