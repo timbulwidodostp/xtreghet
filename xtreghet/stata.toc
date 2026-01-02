@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtreghet MLE Random-Effects with Multiplicative Heteroscedasticity Panel Data Regression Use xtreghet With STATA 19
