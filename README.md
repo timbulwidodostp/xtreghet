@@ -1,6 +1,8 @@
 # xtreghet
 MLE Random-Effects with Multiplicative Heteroscedasticity Panel Data Regression Use xtreghet With STATA 19
 
+https://www.youtube.com/watch?v=O1gkCqCaKng
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
